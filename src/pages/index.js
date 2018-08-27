@@ -2,7 +2,6 @@ import React from "react"
 import styled, { injectGlobal } from "styled-components";
 import Link from "gatsby-link";
 import Typography from '@material-ui/core/Typography';
-import PropTypes from 'prop-types';
 
 injectGlobal`
     body{
