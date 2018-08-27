@@ -61,7 +61,7 @@ export default () => <div>
         <Separate>
         </Separate>
         <LinkContainer>
-            <LinkSite href="https://www.facebook.com/" target="blank">
+            <LinkSite href="https://www.facebook.com/santiago.serrano.marquez" target="blank">
                 <Typography variant="display1">
                     <div>Facebook</div>
                 </Typography>
